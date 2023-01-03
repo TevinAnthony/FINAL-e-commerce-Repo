@@ -1,2 +1,2 @@
-# FINAL-e-commerce-Repo
+# agile-final-project
 FINAL PROJECT
